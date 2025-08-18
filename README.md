@@ -14,3 +14,52 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# 👩‍💻 Hola, soy Sarita Ibarra  
+
+🌟 **QA Analyst | Tester Manual & Automatización | Apasionada por la calidad del software**  
+
+---
+
+## 🚀 Sobre mí  
+- 🔎 Enfocada en garantizar experiencias digitales sin errores.  
+- 🛠️ Conocimientos en **pruebas manuales, automatizadas y metodologías ágiles**.  
+- 📊 Me gusta resolver problemas con **pensamiento lógico y enfoque en el detalle**.  
+- 📚 Aprendiendo siempre sobre **automatización, DevOps y CI/CD**.  
+
+---
+
+## 🧰 Tecnologías & Herramientas  
+<div align="center">
+
+| Categoría | Herramientas |
+|-----------|--------------|
+| **Pruebas Manuales** | JIRA · TestRail · Zephyr |
+| **Automatización** | Selenium · Cypress · Playwright |
+| **Lenguajes** | Python · JavaScript · SQL |
+| **CI/CD** | GitHub Actions · Jenkins |
+| **Otros** | Postman · Git · Agile/Scrum |
+
+</div>
+
+---
+
+## 📈 GitHub Stats  
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaritaIbarra&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaritaIbarra&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 🌍 Conéctate conmigo  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+
+---
+
+⭐️ *"La calidad no es un acto, es un hábito."*  
