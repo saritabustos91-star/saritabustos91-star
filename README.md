@@ -49,16 +49,16 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaritaIbarra&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaritaIbarra&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saritabustos91-star&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saritabustos91-star&layout=compact&theme=radical)
 
 </div>
 
 ---
 
 ## 🌍 Conéctate conmigo  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/sarita-maria-ibarra-bustos-83b358185/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saritabustos91@gmail.com)
 
 ---
 
