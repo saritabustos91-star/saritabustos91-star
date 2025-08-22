@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 # 👩‍💻 Hola, soy Sarita Ibarra  
 
 🌟 **QA Analyst | Tester Manual & Automatización | Apasionada por la calidad del software**  
@@ -63,3 +63,55 @@ Here are some ideas to get you started:
 ---
 
 ⭐️ *"La calidad no es un acto, es un hábito."*  
+
+-->
+
+
+# 👩‍💻 Hi, I'm Sarita Ibarra  
+
+🌟 **QA Analyst | Manual & Automation Tester | Passionate about Software Quality**  
+
+---
+
+## 🚀 About Me  
+- 🔎 Focused on delivering flawless digital experiences.  
+- 🛠️ Skilled in **manual testing, test automation, and agile methodologies**.  
+- 📊 Strong logical thinking and attention to detail.  
+- 📚 Continuously learning about **automation, DevOps, and CI/CD**.  
+
+---
+
+## 🧰 Tools & Technologies  
+<div align="center">
+
+| Category | Tools |
+|----------|-------|
+| **Manual Testing** | JIRA · TestRail · Zephyr |
+| **Automation** | Selenium · Cypress · Playwright |
+| **Languages** | Python · JavaScript · SQL |
+| **CI/CD** | GitHub Actions · Jenkins |
+| **Others** | Postman · Git · Agile/Scrum |
+
+</div>
+
+---
+
+## 📈 GitHub Stats  
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaritaIbarra&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaritaIbarra&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 🌍 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarita-maria-ibarra-bustos-83b358185/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saritabustos91@gmail.com)
+
+---
+
+⭐️ *"Quality is not an act, it is a habit."*  
+
