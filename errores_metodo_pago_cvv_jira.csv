@@ -1,0 +1,9 @@
+Summary,Description,Issue Type,Priority,Labels
+[Validation] Campo 'Número de tarjeta' permite caracteres especiales,"El campo acepta caracteres especiales como %&$#"", lo cual es inválido para un número de tarjeta.",Bug,High,"Validation, Payment, Input"
+[Formatting] Formato de tarjeta no agrega espacios automáticamente,El formato del campo de número de tarjeta no aplica espacios automáticos (ej. 1234 5678). Ejemplo fallido: 1234 4567 4851.,Bug,Medium,"Formatting, Payment, Input"
+[Validation] Número de tarjeta fuera de rango aceptado,El número ingresado (999999999999) está fuera del rango válido para tarjetas y no se marca como inválido.,Bug,High,"Validation, Payment"
+[Validation] Campo CVV inválido con menos de 2 caracteres,"El campo CVV permite ingresar valores de longitud menor a 2 caracteres (Ejemplo: '5'), lo cual es inválido.",Bug,High,"Validation, CVV"
+[Validation] Campo CVV inválido con más de 2 caracteres,"El campo CVV acepta valores con más de 2 caracteres (Ej: '584', '5847'), lo cual es inválido.",Bug,High,"Validation, CVV"
+[Validation] Campo CVV permite letras,"El campo CVV permite ingresar letras (Ej: 'BFUFHU'), lo cual debería estar restringido a números.",Bug,High,"Validation, CVV"
+[Validation] Campo CVV permite caracteres especiales,"El campo CVV acepta caracteres especiales como #$%&/, lo cual es inválido.",Bug,High,"Validation, CVV"
+[Validation] CVV acepta valor fuera del rango permitido,El valor ingresado en CVV como '00' no es válido. El sistema debería validar que el valor esté en un rango permitido.,Bug,High,"Validation, CVV, Range"
