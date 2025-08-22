@@ -95,13 +95,12 @@ Here are some ideas to get you started:
 </div>
 
 ---
-
 ## 📈 GitHub Stats  
 
 <div align="center">
 
-![Sarita's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaritaIbarra&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaritaIbarra&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saritabustos91-star&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saritabustos91-star&layout=compact&theme=radical)
 
 </div>
 
